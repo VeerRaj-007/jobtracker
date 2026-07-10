@@ -2,7 +2,7 @@
 
 A full-stack job and internship application tracker with a Kanban board. Built because spreadsheets are terrible for tracking applications — drag cards between stages, add notes, set deadlines, and see your stats at a glance.
 
-**Live Demo:** https://jobtracker-veerraj-007.vercel.app
+**Live Demo:** https://jobtracker-weld.vercel.app/
 
 ---
 
