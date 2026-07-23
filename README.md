@@ -8,13 +8,13 @@ A full-stack job and internship application tracker with a Kanban board. Built b
 
 ## Features
 
-- **Kanban board** — Five columns: Wishlist, Applied, Interview, Offered, Rejected. Drag and drop cards between stages.
-- **Application cards** — Each card shows company, role, location, salary, applied date, and deadline with a color-coded status indicator.
-- **Add / Edit / Delete** — Full CRUD via a clean modal. Edit any field, delete applications you no longer need.
-- **Stats dashboard** — Live counters for total applications, interviews, offers, and interview rate percentage.
-- **Deadline tracking** — Deadlines highlighted in red when within 3 days.
-- **JWT Authentication** — Register and log in. Every user sees only their own applications.
-- **Persistent storage** — All data saved to PostgreSQL. Nothing lost on refresh.
+- **Kanban board** : Five columns: Wishlist, Applied, Interview, Offered, Rejected. Drag and drop cards between stages.
+- **Application cards** : Each card shows company, role, location, salary, applied date, and deadline with a color-coded status indicator.
+- **Add / Edit / Delete** : Full CRUD via a clean modal. Edit any field, delete applications you no longer need.
+- **Stats dashboard** : Live counters for total applications, interviews, offers, and interview rate percentage.
+- **Deadline tracking** : Deadlines highlighted in red when within 3 days.
+- **JWT Authentication** : Register and log in. Every user sees only their own applications.
+- **Persistent storage** : All data saved to PostgreSQL. Nothing lost on refresh.
 
 ---
 
